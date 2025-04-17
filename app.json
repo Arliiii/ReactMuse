@@ -1,0 +1,16 @@
+{
+    "expo": {
+        "web": {
+            "bundler": "metro",
+            "output": "static",
+            "favicon": "./assets/images/favicon.png",
+            "name": "Your App Name",
+            "shortName": "App",
+            "description": "Your app description",
+            "lang": "en",
+            "themeColor": "#ffffff",
+            "backgroundColor": "#ffffff"
+        }
+    }
+}
+  
