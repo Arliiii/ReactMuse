@@ -9,7 +9,7 @@ import { useQuizStore } from '@/store/quiz-store';
 import { codingChallenges } from '@/data/challenges';
 import { CodingChallenge } from '@/types/quiz';
 import CodeBlock from '@/components/CodeBlock';
-import { Award, Code, HelpCircle, CheckCircle, Sparkles } from 'lucide-react-native';
+import { Award, Code, HelpCircle, CheckCircle, Sparkles, Star } from 'lucide-react-native';
 import Card from '@/components/ui/Card';
 import Button from '@/components/ui/Button';
 import Badge from '@/components/ui/Badge';
